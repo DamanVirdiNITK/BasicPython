@@ -4,6 +4,9 @@ How to open JUPYTER NOTEBOOK from the folder it is saved in![image](https://user
 2. Type cmd
 3. When cmd opens, type "jupyter notebook"
 
+
+
+Summary
 1. Int
 2. Float
 3. String          ''         Ordered     Immutable
