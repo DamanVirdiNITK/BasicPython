@@ -15,3 +15,7 @@ Summary
 6. Dictionary      {}         Unordered   Mutable     
 7. Sets            {}         Unordered    Mutable
 8. Boolean         True, False
+
+
+To check the datatype of a variable
+type(varName)
